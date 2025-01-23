@@ -10,6 +10,12 @@ ORM: TypeORM
 Description
 This backend provides API endpoints for managing users, tracking activity metrics, generating PDF reports, and ensuring secure authentication. Designed to work seamlessly with a React + TypeScript frontend.
 
+## Used stacks
+- Framework: NestJS
+- Language: TypeScript
+- Database: PostgreSQL
+- ORM: TypeORM
+- PDF Generation: pdf-lib
 
 ## Getting Started
 - Clone this repository.
